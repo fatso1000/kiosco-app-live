@@ -1,1 +1,0 @@
-import{d as s,c as e,x as r,o as c,U as n}from"./index-313488aa.js";const l=["src","alt"],k=s({__name:"ProductArtwork",props:{artwork:{},alt:{}},setup(t){const o=t,a=r(()=>n("/kiosco-app-live/",`artwork/${o.artwork}.svg`));return(p,i)=>(c(),e("img",{src:a.value,alt:t.alt??"",class:"bg-stone-100 object-cover",loading:"lazy"},null,8,l))}});export{k as _};
