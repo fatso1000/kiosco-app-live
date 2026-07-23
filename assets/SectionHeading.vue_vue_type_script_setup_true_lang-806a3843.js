@@ -1,0 +1,1 @@
+import{d as a,o as t,c as s,b as c,t as o,f as i}from"./index-313488aa.js";const n={class:"mb-5"},r={class:"page-title"},d={key:0,class:"page-lead"},_=a({__name:"SectionHeading",props:{title:{},description:{}},setup(e){return(l,p)=>(t(),s("div",n,[c("h1",r,o(e.title),1),e.description?(t(),s("p",d,o(e.description),1)):i("",!0)]))}});export{_};

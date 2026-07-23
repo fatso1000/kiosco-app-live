@@ -1,1 +1,0 @@
-import{d as a,c,x as e,o as s}from"./index-56127154.js";const n=["src","alt"],u=a({__name:"ProductArtwork",props:{artwork:{},alt:{}},setup(t){const o=t,r=e(()=>`/artwork/${o.artwork}.svg`);return(l,m)=>(s(),c("img",{src:r.value,alt:t.alt??"",class:"bg-stone-100 object-cover",loading:"lazy"},null,8,n))}});export{u as _};
